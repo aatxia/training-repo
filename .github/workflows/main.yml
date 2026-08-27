@@ -14,3 +14,5 @@ jobs:
 
       - name: Say Hello
         run: echo "Hello, robot is working!"
+
+      - run: exit 1
